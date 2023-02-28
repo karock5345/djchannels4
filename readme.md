@@ -48,3 +48,7 @@ deactivate
 >python3 manage.py runserver 0.0.0.0:8000
 
 Open web browner : http://127.0.0.1:8000/chat/
+
+http://127.0.0.1:8000/chat/room/707/
+
+http://127.0.0.1:8000/chat/send/
